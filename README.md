@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hi](https://user-images.githubusercontent.com/95488234/177066140-5f9cf3f1-6570-49af-9b73-8202c43cd5a3.png)
 
 <!--
 **Mauro-Cocciolo/Mauro-Cocciolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
