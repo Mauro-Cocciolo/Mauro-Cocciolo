@@ -1,4 +1,4 @@
-![yo ast]![A](https://user-images.githubusercontent.com/95488234/177327902-bea2667f-6a34-489a-a7c2-0fbf9ff9a90b.png)
+![A](https://user-images.githubusercontent.com/95488234/177327902-bea2667f-6a34-489a-a7c2-0fbf9ff9a90b.png)
 <button>
 <a href="https://www.linkedin.com/in/mauro-cocciolo" target="_blank"/>![ink](https://user-images.githubusercontent.com/95488234/177068790-c1c0ab81-9c62-4e98-9b9f-53e2637e8735.png)
 profile</a>
