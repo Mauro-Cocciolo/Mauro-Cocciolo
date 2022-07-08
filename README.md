@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/mauro-cocciolo" target="_blank"/>![ink](https://user-images.githubusercontent.com/95488234/177068790-c1c0ab81-9c62-4e98-9b9f-53e2637e8735.png)
 profile</a>
 </button>
+![mio](https://user-images.githubusercontent.com/95488234/178057583-addf23c0-ec8f-4120-a91b-3a7b73cab398.png)
 
 ### Hi there 👋
 
