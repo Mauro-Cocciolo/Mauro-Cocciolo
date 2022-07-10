@@ -6,6 +6,7 @@ Profile</a>
 
 ### Hi there 👋
 "Quando mi diparti' da Circe, che sottrasse me più d'un anno là presso a Gaeta, prima che sì Enea la nomasse, né dolcezza di figlio, né la pieta del vecchio padre, né 'l debito amore lo qual dovea Penelopé far lieta, vincer potero dentro a me l'ardore ch'i' ebbi a divenir del mondo esperto, e delli vizi umani e del valore; ma misi me per l'alto mare aperto sol con un legno e con quella compagna picciola dalla qual non fui diserto. L'un lito e l'altro vidi infin la Spagna, fin nel Morrocco, e l'isola de’ Sardi, e l'altre che quel mare intorno bagna. Io e' compagni eravam vecchi e tardi quando venimmo a quella foce stretta dov'Ercule segnò li suoi riguardi, acciò che l'uom più oltre non si metta: dalla man destra mi lasciai Sibilia, dall'altra già m'avea lasciata Setta. "O frati", dissi "che per cento milia perigli siete giunti a l'occidente, a questa tanto picciola vigilia de’ nostri sensi ch'è del rimanente, non vogliate negar l'esperienza, di retro al sol, del mondo sanza gente. Considerate la vostra semenza: fatti non foste a viver come bruti, ma per seguir virtute e canoscenza".
+Divina Commedia - Inferno – Canto XXVI
 
 
 <!--
