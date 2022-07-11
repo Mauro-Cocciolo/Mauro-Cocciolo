@@ -26,37 +26,7 @@ To the strait pass*, where Hercules ordain'd
 The bound'ries not to be o'erstepp'ed by man.
 The walls of Seville to my right I left,
 On the' other hand already Ceuta past.
-      'O frati,' dissi, 'che per cento milia
-perigli siete giunti a l'occidente,
-a questa tanto picciola vigilia
-      d'i nostri sensi ch'è del rimanente
-non vogliate negar l'esperïenza
-di retro al sol, del mondo sanza gente.
-      Considerate la vostra semenza:
-fatti non foste a viver come bruti,
-ma per seguir virtute e canoscenza.'
-      Li miei compagni fec' io sì aguti,      \120
-con questa orazion picciola, al cammino,
-che a pena poscia li avrei ritenuti;
-      e volta nostra poppa nel mattino,
-de' remi facemmo ali al folle volo,
-sempre acquistando dal lato mancino.
-      Tutte le stelle già de l'altro polo
-vedea la notte, e 'l nostro tanto basso,
-che non surgëa fuor del marin suolo.
-      Cinque volte racceso e tante casso      130
-lo lume era di sotto da la luna,
-poi che 'ntrati eravam ne l'alto passo,
-      quando n'apparve una montagna, bruna
-per la distanza, e parvemi alta tanto
-quanto veduta non avëa alcuna.
-      Noi ci allegrammo, e tosto tornò in pianto;
-ché de la nova terra un turbo nacque
-e percosse del legno il primo canto.
-      Tre volte il fé girar con tutte l'acque;
-a la quarta levar la poppa in suso
-e la prora ire in giù, com' altrui piacque,      140
-      infin che 'l mar fu sovra noi richiuso."	'O brothers!' I began, 'woe to the west
+'O brothers!' I began, 'woe to the west
 'Through perils without number now have we reach'd;
 'To this the short remaining watch, that yet
 'Our senses have to wake, refuse not proof
