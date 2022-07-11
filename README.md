@@ -5,6 +5,67 @@ Profile</a>
 </button> 
 
 ### Hi there 👋
+"When I escap'd
+From Circe, who beyond a circling year
+Had held me near Caieta by her charms,
+Ere thus Æneas yet had nam'd the shore;
+Nor fondness for my son*, nor reverence
+Of my old father, nor return of love,
+That should have crown'd Penelope with joy,
+Could overcome in me the zeal I had
+To' explore the world, and search the ways of life,
+Man's evil and his virtue. Forth I sail'd
+Into the deep illimitable main,
+With but one bark, and the small faithful band
+That yet cleav'd to me. As Iberia far,
+Far as Marocco either shore I saw,
+And the Sardinian and each isle beside
+Which round that ocean bathes. Tardy with age
+Were I and my companions, when we came
+To the strait pass*, where Hercules ordain'd
+The bound'ries not to be o'erstepp'ed by man.
+The walls of Seville to my right I left,
+On the' other hand already Ceuta past.
+      'O frati,' dissi, 'che per cento milia
+perigli siete giunti a l'occidente,
+a questa tanto picciola vigilia
+      d'i nostri sensi ch'è del rimanente
+non vogliate negar l'esperïenza
+di retro al sol, del mondo sanza gente.
+      Considerate la vostra semenza:
+fatti non foste a viver come bruti,
+ma per seguir virtute e canoscenza.'
+      Li miei compagni fec' io sì aguti,      \120
+con questa orazion picciola, al cammino,
+che a pena poscia li avrei ritenuti;
+      e volta nostra poppa nel mattino,
+de' remi facemmo ali al folle volo,
+sempre acquistando dal lato mancino.
+      Tutte le stelle già de l'altro polo
+vedea la notte, e 'l nostro tanto basso,
+che non surgëa fuor del marin suolo.
+      Cinque volte racceso e tante casso      130
+lo lume era di sotto da la luna,
+poi che 'ntrati eravam ne l'alto passo,
+      quando n'apparve una montagna, bruna
+per la distanza, e parvemi alta tanto
+quanto veduta non avëa alcuna.
+      Noi ci allegrammo, e tosto tornò in pianto;
+ché de la nova terra un turbo nacque
+e percosse del legno il primo canto.
+      Tre volte il fé girar con tutte l'acque;
+a la quarta levar la poppa in suso
+e la prora ire in giù, com' altrui piacque,      140
+      infin che 'l mar fu sovra noi richiuso."	'O brothers!' I began, 'woe to the west
+'Through perils without number now have we reach'd;
+'To this the short remaining watch, that yet
+'Our senses have to wake, refuse not proof
+'Of the unpeopled world, following the track
+'Of Phoebus. Call to mind from whence ye sprang:
+'Ye were not form'd to live the life of brutes,
+'But virtue to pursue and knowledge high.'
+Divina Commedia - Inferno – Canto XXVI
+
 "Quando mi diparti' da Circe, che sottrasse me più d'un anno là presso a Gaeta, prima che sì Enea la nomasse, né dolcezza di figlio, né la pieta del vecchio padre, né 'l debito amore lo qual dovea Penelopé far lieta, vincer potero dentro a me l'ardore ch'i' ebbi a divenir del mondo esperto, e delli vizi umani e del valore; ma misi me per l'alto mare aperto sol con un legno e con quella compagna picciola dalla qual non fui diserto. L'un lito e l'altro vidi infin la Spagna, fin nel Morrocco, e l'isola de’ Sardi, e l'altre che quel mare intorno bagna. Io e' compagni eravam vecchi e tardi quando venimmo a quella foce stretta dov'Ercule segnò li suoi riguardi, acciò che l'uom più oltre non si metta: dalla man destra mi lasciai Sibilia, dall'altra già m'avea lasciata Setta. "O frati", dissi "che per cento milia perigli siete giunti a l'occidente, a questa tanto picciola vigilia de’ nostri sensi ch'è del rimanente, non vogliate negar l'esperienza, di retro al sol, del mondo sanza gente. Considerate la vostra semenza: fatti non foste a viver come bruti, ma per seguir virtute e canoscenza".
 Divina Commedia - Inferno – Canto XXVI
 
