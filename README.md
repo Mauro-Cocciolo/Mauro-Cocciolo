@@ -5,6 +5,44 @@ Profile</a>
 </button> 
 
 ### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img id="img" src="./hombres-trabajando-interesar.jpg" alt="img"/>
+        <h1>Html - Css - JavaScript - React - Redux</h1>
+    </div>
+   
+</body>
+</html>
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    background-color:burlywood;
+    color: rgba(101, 87, 4, 0.904);
+    box-shadow: 3px 3px 10px  rgba(0,0,0, .75);
+
+}
+
+#img {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+}
+
+
 "When I escap'd
 From Circe, who beyond a circling year
 Had held me near Caieta by her charms,
